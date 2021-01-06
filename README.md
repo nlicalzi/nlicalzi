@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 ### 👋 Hi there, I'm Nick 👨🏽
 
 - 😄 Pronouns: he/him
-- 🔭 I’m currently working on Capstone at [Launch School](https://launchschool.com/capstone)
+- 🔭 I’m currently working on [Capstone](https://launchschool.com/capstone) at [Launch School](https://launchschool.com/)
 - 💻 Personal website: [nlicalzi.github.io](https://nlicalzi.github.io)
