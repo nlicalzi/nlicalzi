@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: he/him
 - 🔭 I’m currently working on Capstone at [Launch School](https://launchschool.com/capstone)
-- 💻 Personal website: [nlicalzi.github.io]()
+- 💻 Personal website: [nlicalzi.github.io](https://nlicalzi.github.io)
