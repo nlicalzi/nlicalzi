@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **nlicalzi/nlicalzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 👋 Hi there, I'm Nick 👨🏽
 
-- 👨🏽 Hey, I'm Nick! 
 - 😄 Pronouns: he/him
 - 🔭 I’m currently working on Capstone at [Launch School](https://launchschool.com/capstone)
 - 💻 Personal website: [nlicalzi.github.io](
