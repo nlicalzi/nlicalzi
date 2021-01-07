@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: he/him
 - 🔭 I’m currently working on [Capstone](https://launchschool.com/capstone) at [Launch School](https://launchschool.com/)
-- 💻 Personal website: [nlicalzi.github.io](https://nlicalzi.github.io)
+- 🏙 I used be a geospatial data analyst in architecture/urban planning
+- 🎓 I have an MS in urban data science from NYU
+- 💻 Find more info at [nlicalzi.github.io](https://nlicalzi.github.io)
