@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 ### 👋 Hi there, I'm Nick 👨🏽
 
-- 😄 Pronouns: he/him
-- 🔭 I’m currently working on [Capstone](https://launchschool.com/capstone) at [Launch School](https://launchschool.com/)
-- 🏙 I used be a geospatial data analyst in architecture/urban planning
-- 🎓 I have an MS in urban data science from NYU
-- 💻 Find more info at [nlicalzi.github.io](https://nlicalzi.github.io)
+- 😄  Pronouns: he/him
+- 🔭  Currently working on [Capstone](https://launchschool.com/capstone) at [Launch School](https://launchschool.com/)
+- 🏙  Formerly a geospatial data analyst in architecture/urban planning
+- 🎓  Graduated with an MS in urban data science from NYU
+- 💻  Find more info at [nlicalzi.github.io](https://nlicalzi.github.io)
