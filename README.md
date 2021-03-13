@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👋 Hi there, I'm Nick 👨🏽
+### 👋 Hello world! I'm Nick 👨🏽
 
 - 😄   Pronouns: he/him
 - 🔭   Currently working on [Capstone](https://launchschool.com/capstone) at [Launch School](https://launchschool.com/)
