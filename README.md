@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🔭   Currently working on [Capstone](https://launchschool.com/capstone) at [Launch School](https://launchschool.com/)
 - 🏙   Formerly a geospatial data analyst in architecture/urban planning
 - 🎓   Graduated with an MS in urban data science from NYU
-- 💻   Find more info at [nlicalzi.github.io](https://nlicalzi.github.io)
+- 💻   You can find more info at my personal website, [nlicalzi.com](https://nlicalzi.com)
