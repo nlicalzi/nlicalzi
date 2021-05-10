@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### 👋 Hello world! I'm Nick 👨🏽
 
 - 😄   Pronouns: he/him
-- 🏗   Built [Dendro] (https://github.com/dendro-naap), a serverless monitoring framework for small, distributed applications.
+- 🏗   Built [Dendro](https://github.com/dendro-naap), a serverless monitoring framework for small, distributed applications.
 - 🔭   Currently working on [Capstone](https://launchschool.com/capstone) at [Launch School](https://launchschool.com/)
 - 🏙   Formerly a geospatial data analyst in architecture/urban planning
 - 🎓   Graduated with an MS in urban data science from NYU
