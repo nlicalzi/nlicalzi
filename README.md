@@ -19,5 +19,3 @@ Here are some ideas to get you started:
 - 🏙   Formerly a geospatial data analyst in architecture/urban planning.
 - 🎓   Graduated with an MS in urban data science from NYU.
 - 💻   You can find more info at my personal website: [nlicalzi.com](https://nlicalzi.com)
-
-[![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nlicalzi)](https://github.com/anuraghazra/github-readme-stats)
