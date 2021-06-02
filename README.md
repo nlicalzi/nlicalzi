@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 
 ### 👋 Hello world! I'm Nick 👨🏽
 
-- 🏗   Built [Dendro](https://github.com/dendro-monitoring), an open-source serverless monitoring framework for small, distributed applications.
-- 🔭   Currently working on [Capstone](https://launchschool.com/capstone) at [Launch School](https://launchschool.com/)
+- 🏗   Built [Dendro](https://getdendro.com), an open-source serverless monitoring framework for small, distributed applications.
 - 🏙   Formerly a geospatial data analyst in architecture/urban planning
 - 🎓   Graduated with an MS in urban data science from NYU
 - 💻   You can find more info at my personal website: [nlicalzi.com](https://nlicalzi.com)
