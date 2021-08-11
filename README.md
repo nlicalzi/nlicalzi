@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### 👋 Hello world! I'm Nick 👨🏽
 
-- 🛒   I'm a software engineer, currently working on the Growth team at Shopify.
+- 🛒   Currently working on the Growth team at Shopify.
 - 🏗   Built [Dendro](https://getdendro.com), an open-source serverless monitoring framework for small, distributed applications.
 - 🏙   Formerly a geospatial data scientist working in architecture/urban planning.
 - 🎓   Graduated with an MS in urban data science from NYU.
