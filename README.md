@@ -23,7 +23,7 @@ I will do what I can to make systems easy to understand, interactive wherever po
 
 ### 👋 Hello world! I'm Nick (he/him) 👨🏽
 
-- 🛒   Currently working on the Growth RnD team at Shopify.
+- 🛒   Currently working on Experimentation as part of the Growth team at Shopify.
 - 🏗   Built [Dendro](https://getdendro.com), an open-source serverless monitoring framework for small, distributed applications.
 - 🏙   Formerly a geospatial data scientist working in architecture/urban planning.
 
